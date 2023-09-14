@@ -1,2 +1,2 @@
-# python-algorithms
+# python-codes
  códigos de python
